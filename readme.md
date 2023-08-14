@@ -23,5 +23,5 @@ The data folder contains 3 files:
 ---
 Resulting images
 
-![Cover](/results/Frame 3.jpg)  
-![Analysis](/results/Frame 3.jpg)  
+![Cover](https://github.com/lagom-QB/AliceInWonderland/blob/main/results/Frame%203.jpg)  
+![Analysis](https://github.com/lagom-QB/AliceInWonderland/blob/main/results/Frame%204.jpg)  
